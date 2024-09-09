@@ -3,6 +3,9 @@
 
 The Pincus Index is a statistical measure used to quantify the randomness in financial markets, particularly in the context of time series data. It is particularly noted for its application in analyzing the foreign exchange market.
 
+![image](https://github.com/user-attachments/assets/db2035fd-3d05-4116-9df2-fe996f73a2a0)
+
+
 ![Uploading image.png…]()
 
 
